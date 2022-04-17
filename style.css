@@ -1,0 +1,109 @@
+body{
+    text-align: left;
+    background-color: rgb(183, 255, 255);
+
+}
+
+#image{
+    margin-top: 10px;
+  
+    border-style: double;
+    border-color: rgb(255, 255, 255);
+    padding: 20px;
+
+
+
+    display: block;
+    width: 70%;
+    height: 70%;
+}
+
+#image2{
+    width: 100px;
+    height: 75px;
+}
+
+
+.movie_head{
+    padding: 6px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.movie_head i {
+    float: right;
+}
+
+
+.image-drop{
+    height: 50%; 
+    width: 50%; 
+    margin-left: 150px;
+}
+
+#playground{
+     height: 100%;
+     width: 100%;
+     text-align: left;
+}
+
+.row-custom{
+    background-color: rgb(73, 255, 200); 
+    padding-top: 10px; 
+    padding-bottom: 30px;
+    border-radius: 50px;
+}
+.row-custom2{
+    background-color: rgb(167, 227, 255); 
+    padding-top: 10px; 
+    padding-bottom: 30px;
+    border-radius: 50px;
+}
+
+#welcome{
+    font-family: 'Square Peg', cursive;
+    font-size: 100px;
+    background-color: rgb(43, 226, 217);
+    border-radius: 200px;
+}
+
+
+#vid{
+   padding: 20px;
+    background-color: rgb(43, 226, 217);
+    border-radius: 50px;
+}
+
+#ad{
+    padding: 30px;
+     background-color: rgb(43, 226, 217);
+     border-radius: 20px;
+ }
+
+
+
+#contact1{
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    margin-bottom: 50px;
+}
+
+
+#intro{
+    padding-bottom: 30px;
+    background-color: rgb(53, 126, 235);
+    border-radius: 20px;
+}
+
+.text{
+    margin-left: 50px;
+}
+
+#my_navbar{
+    position: sticky;
+}
+
+#going-on{
+    margin-bottom: 100px;
+}
